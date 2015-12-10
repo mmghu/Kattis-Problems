@@ -1,3 +1,6 @@
+// Purpose: Calculate which player has the highest probability of winning a game of summing two dice
+// Preconditions: Properly formatted input detailing dice ranges of two players
+// Postconditions: Outputs which player has the highest probability of winning in the event of no tie
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
