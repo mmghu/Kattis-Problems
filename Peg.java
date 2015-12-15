@@ -1,3 +1,6 @@
+// Purpose: Check possible moves given a peg board
+// Preconditions: Properly formatted peg board
+// Postconditions: Outputs number of possible moves
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
